@@ -1,0 +1,20 @@
+# Speech Emotion Detection - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Audio processing
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# Machine learning
+scikit-learn>=1.3.0
+numpy>=1.24.0
+
+# Model serialization
+joblib>=1.3.0
+
+'''
+pnpm install  # installs dependencies
+pnpm dev      # starts the dev server
+
+start localhost:3000
+'''

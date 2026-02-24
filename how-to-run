@@ -1,0 +1,6 @@
+unzip file
+create virtual environment
+pip install -r requirements.txt
+pnpm install
+pnpm build
+pnpm start
